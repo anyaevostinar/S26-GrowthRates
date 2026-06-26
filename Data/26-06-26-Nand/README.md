@@ -1,0 +1,1 @@
+A sample of what example_slurm.sh and SymSettings.cfg could look like. 
